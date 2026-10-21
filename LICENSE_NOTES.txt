@@ -1,0 +1,5 @@
+This starter package is provided as source code for evaluation and further development.
+Third-party dependencies retain their own licenses.
+Quran text, translations, recitations, fonts, and voice recordings may have separate terms.
+Check each source's license and redistribution conditions before bundling content or publishing.
+No specific person's voice recording is included.
